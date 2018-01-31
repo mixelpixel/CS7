@@ -342,7 +342,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 #### [CSS Preprocessor Intro Q&A](https://youtu.be/5uffIhKvPUo) w/Josh Knell
 ***
 ### Day 16: Tue, Jan. 30
-#### [Code Challenge 13: Common Elements](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
+#### [Code Challenge 13: Common Elements](https://youtu.be/somn1VHvFCc) w/Satish Vattikuti
 #### [CSS Preprocessor 2](https://youtu.be/GwIEh4R8AUY) w/Josh Knell
 #### [CSS Preprocessor 2 Q&A](https://youtu.be/shXMYNQtg48) w/Josh Knell
 ***
