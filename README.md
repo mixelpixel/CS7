@@ -203,7 +203,7 @@ function longestConsecutive(arr, k) {
 ## Responsive Design and CSS Pre-Processors w/Josh Knell
 - https://github.com/lambdaschool/preprocessing-one
 - https://github.com/LambdaSchool/Preprocessing-2
-- 
+-
 
 ##### Posted in Slack, Sunday prior: https://lambdaschoolstudents.slack.com/archives/C8ZM4HHD3/p1517169440000109
 
@@ -251,8 +251,14 @@ $ sudo npm install -g less
 - I looked for a *super short and succinct* video on LESS and this is a great review in practice:
 - https://www.youtube.com/watch?v=EU1sUpPGIb4
 ##### Day 3 - Responsive Web Design Intro
+- Reading and watching for tomorrow's Responsive Web Design (RWD) Intro
+- Responsive web design tutorial - really well done: https://www.youtube.com/watch?v=BIz02qY5BRA
+- W3 Schools! Seriously, good intro here :wink: https://www.w3schools.com/css/css_rwd_intro.asp
+- Optional reading (recommended if you really like design): https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/
 ##### Day 4 - Responsive Web Design Advanced
+
 ***
+
 ### Day 15: Mon, Jan. 29
 #### [Code Challenge 12: Sum of Digits](https://youtu.be/udMpY37k7ng) w/Patrick Kennedy
 
