@@ -32,7 +32,7 @@
 
 ***
 
-# Day by day, week by week, month by month, we learn!
+## Day by day, week by week, month by month, we learn!
 
 <details><summary>Month 1: January, 2018</summary><p>
 
@@ -40,20 +40,20 @@
 
 ##### THIS LIST IS JUST AN EDUCATED GUESS RIGHT NOW
 
-## Pre-Coursework
+### Pre-Coursework
 - https://github.com/LambdaSchool/Precourse (PR review???)
 - https://github.com/LambdaSchool/Pre-Course-Git-Fu - Is this still issued to students?
 ***
-## Week 1: Jan. 8 - 12
-## JavaScript I - IV
+### Week 1: Jan. 8 - 12
+### JavaScript I - IV
 - https://github.com/LambdaSchool/JavaScript-I-Mini
 - https://github.com/LambdaSchool/JavaScript-I
 - https://github.com/LambdaSchool/JavaScript-II-Mini
 - https://github.com/LambdaSchool/JavaScript-II
 - https://github.com/LambdaSchool/Sprint-Challenge--JavaScript
 ***
-## Week 2: Jan. 16 - 19 (1/15: MLK Jr.)
-## Data Structures
+### Week 2: Jan. 16 - 19 (1/15: MLK Jr.)
+### Data Structures
 - https://github.com/LambdaSchool/Data-Structures-I
 - https://github.com/LambdaSchool/LS-Data-Structures-I-Solution (PR review???)
 - https://github.com/LambdaSchool/Data-Structures-II
@@ -76,7 +76,7 @@
 
 ***
 
-## Week 03: Jan. 22 - 26
+# Week 03: Jan. 22 - 26
 ## HTML/CSS and DOM Manipulation w/Ivan Mora
 - https://github.com/LambdaSchool/HTML-CSS-mini
 - https://github.com/LambdaSchool/LS-Web-Intro-I (???)
@@ -199,7 +199,7 @@ function longestConsecutive(arr, k) {
 ***
 
 
-## Week 04: Jan. 29 - Feb. 2
+# Week 04: Jan. 29 - Feb. 2
 ## Responsive Design and CSS Pre-Processors w/Josh Knell
 - https://github.com/lambdaschool/preprocessing-one
 - https://github.com/LambdaSchool/Preprocessing-2
@@ -370,7 +370,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 
 <details><summary>Month 2: February, 2018</summary><p>
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -403,7 +403,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -436,7 +436,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -469,7 +469,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -506,7 +506,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 
 <details><summary>Month 3: March, 2018</summary><p>
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -539,7 +539,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -572,7 +572,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -605,7 +605,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -640,7 +640,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 
 <details><summary>Month 4: April, 2018</summary><p>
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -673,7 +673,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -706,7 +706,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
@@ -739,7 +739,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-## Week ##: Mon. ## - ##
+# Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
 ### Day ##: Mon, Mon. ##
