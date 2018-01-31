@@ -1,3 +1,8 @@
+Testytesttesttest
+
+
+
+
 <div align="center">
   <h1>CS7: DAY by DAY</h1>
   <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/cs7lambda.png" alt="CS7 Lambda" height="200px" width="200px">
@@ -203,7 +208,7 @@ function longestConsecutive(arr, k) {
 ## Responsive Design and CSS Pre-Processors w/Josh Knell
 - https://github.com/lambdaschool/preprocessing-one
 - https://github.com/LambdaSchool/Preprocessing-2
--
+- https://github.com/LambdaSchool/responsive-web-design
 
 ##### Posted in Slack, Sunday prior: https://lambdaschoolstudents.slack.com/archives/C8ZM4HHD3/p1517169440000109
 
@@ -347,9 +352,9 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 #### [CSS Preprocessor 2 Q&A](https://youtu.be/shXMYNQtg48) w/Josh Knell
 ***
 ### Day 17: Wed, Jan. 31
-#### [Code Challenge 14: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+#### [Code Challenge 14: CODE_CHALLENGE](https://youtu.be/mHSBT-yVAx0) w/Satish Vattikuti
+#### [Responsive Web Design Guided Demo](https://youtu.be/jnI2m_9YQio) w/Josh Knell
+#### [Responsive Web Design Guided Demo Q&A](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
 ***
 ### Day 18: Thu, Feb. 1
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
