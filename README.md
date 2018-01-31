@@ -77,7 +77,7 @@
 ***
 
 ## Week 03: Jan. 22 - 26
-## HTML/CSS and DOM Manipulation
+## HTML/CSS and DOM Manipulation w/Ivan Mora
 - https://github.com/LambdaSchool/HTML-CSS-mini
 - https://github.com/LambdaSchool/LS-Web-Intro-I (???)
 - https://github.com/LambdaSchool/DOM-JavaScript-mini
@@ -200,17 +200,12 @@ function longestConsecutive(arr, k) {
 
 
 ## Week 04: Jan. 29 - Feb. 2
-## Responsive Design and CSS Pre-Processors
+## Responsive Design and CSS Pre-Processors w/Josh Knell
 - https://github.com/lambdaschool/preprocessing-one
 
-##### Prep w/ Josh Knell
-- [Friday prior prep walkthrough for TAs](https://youtu.be/KikBMTsdQpc)
-- https://codepen.io/bigknell/pen/zpgMbE
-
-##### Posted in Slack Sunday prior: https://lambdaschoolstudents.slack.com/archives/C8ZM4HHD3/p1517169440000109
+##### Posted in Slack, Sunday prior: https://lambdaschoolstudents.slack.com/archives/C8ZM4HHD3/p1517169440000109
 
 <details><summary>Setting up for LESS</summary><p>
-
 
 > *Q: Why LESS and not SASS or another preprocessor?*
 >
