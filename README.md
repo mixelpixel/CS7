@@ -202,6 +202,8 @@ function longestConsecutive(arr, k) {
 ## Week 04: Jan. 29 - Feb. 2
 ## Responsive Design and CSS Pre-Processors w/Josh Knell
 - https://github.com/lambdaschool/preprocessing-one
+- https://github.com/LambdaSchool/Preprocessing-2
+- 
 
 ##### Posted in Slack, Sunday prior: https://lambdaschoolstudents.slack.com/archives/C8ZM4HHD3/p1517169440000109
 
