@@ -32,6 +32,8 @@
 
 ***
 
+# Day by day, week by week, month by month, we learn!
+
 <details><summary>Month 1: January, 2018</summary><p>
 
 <details><summary>Prior to my starting mid-Week 3</summary><p>
