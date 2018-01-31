@@ -5,9 +5,10 @@
   <p><b>!EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!</b></p>
 </div>
 
-# [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
-# [LS Syllabus Training Kit](http://ls-training-kit.netlify.com/cs-master)
-### [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
+# Overview
+## [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
+### [LS Syllabus Training Kit](http://ls-training-kit.netlify.com/cs-master)
+##### [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 
 <details>
   <summary>Google Calendar Week Example</summary><p>
@@ -140,7 +141,7 @@ function longestConsecutive(arr, k) {
 // console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "capybara", "form", "libe", "zas"], 3)) // <--- theta anti capy
 
 /*
- RESOURCES: google search "MDN <method name>", W3 schools, Free Code Camp
+ RESOURCES: google search "MDN {method name}", W3 schools, Free Code Camp
  ARRAY METHODS
  SLICE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
  JOIN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
