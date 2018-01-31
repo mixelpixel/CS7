@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>CS7 DAY by DAY</h1>
+  <h1>CS7: DAY by DAY</h1>
   <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/cs7lambda.png" alt="CS7 Lambda" height="200px" width="200px">
   <br><br><br>
   <p><b>!EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!</b></p>
