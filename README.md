@@ -354,7 +354,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ### Day 17: Wed, Jan. 31
 #### [Code Challenge 14: CODE_CHALLENGE](https://youtu.be/mHSBT-yVAx0) w/Satish Vattikuti
 #### [Responsive Web Design Guided Demo](https://youtu.be/jnI2m_9YQio) w/Josh Knell
-#### [Responsive Web Design Guided Demo Q&A](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+#### [Responsive Web Design Guided Demo Q&A](https://youtu.be/Q8lftdFxLTg) w/Josh Knell
 ***
 ### Day 18: Thu, Feb. 1
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
