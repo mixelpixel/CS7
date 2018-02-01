@@ -348,14 +348,14 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 ### Day 17: Wed, Jan. 31
 #### [Code Challenge 14: Bubble Sort](https://youtu.be/mHSBT-yVAx0) w/Satish Vattikuti
-#### [Responsive Web Design Guided Demo](https://youtu.be/jnI2m_9YQio) w/Josh Knell
-#### [Responsive Web Design Guided Demo Q&A](https://youtu.be/Q8lftdFxLTg) w/Josh Knell
+#### [Responsive Web Design: Guided Demo](https://youtu.be/jnI2m_9YQio) w/Josh Knell
+#### [Responsive Web Design: Q&A](https://youtu.be/Q8lftdFxLTg) w/Josh Knell
 ***
 ### Day 18: Thu, Feb. 1
 #### [Code Challenge ##: Sort Strings](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
 #### [Responsive Web Design - Percent Based Layout](https://youtu.be/epa5QFFpGHI) w/Josh Knell
-#### [Responsive Web Design - II](https://youtu.be/XDO7yc7aAFc) w/Josh Knell
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+#### [Responsive Web Design II: Guided Demo](https://youtu.be/XDO7yc7aAFc) w/Josh Knell
+#### [Responsive Web Design II: Q&A](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
 ***
 ### Day 19: Fri, Feb. 2
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
