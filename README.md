@@ -1,8 +1,3 @@
-Testytesttesttest
-
-
-
-
 <div align="center">
   <h1>CS7: DAY by DAY</h1>
   <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/cs7lambda.png" alt="CS7 Lambda" height="200px" width="200px">
@@ -358,6 +353,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 ### Day 18: Thu, Feb. 1
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
+#### [Responsive Web Design - Percent Based Layout](https://youtu.be/epa5QFFpGHI) w/Josh Knell
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
 ***
