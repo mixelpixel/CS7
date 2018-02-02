@@ -372,7 +372,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 <details><summary>Month 2: February, 2018</summary><p>
 
 # Week 05: Mon. Feb 5 - 9
-## React 1
+## React 1 w/Luis Hernandez
 - https://github.com/LambdaSchool/React-I-Demo
 - https://github.com/LambdaSchool/React-I-Mini-Sprint
 - https://github.com/LambdaSchool/React-I
