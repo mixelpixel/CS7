@@ -914,7 +914,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 
 ***
 
-<details><summary>Month 6: May, 2018</summary><p>
+<details><summary>Month 6: June, 2018</summary><p>
 
 # Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
@@ -1048,7 +1048,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 
 ***
 
-<details><summary>Month 7: May, 2018</summary><p>
+<details><summary>Month 7: July, 2018</summary><p>
 
 # Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
