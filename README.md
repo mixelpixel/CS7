@@ -358,7 +358,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 #### [Responsive Web Design II: Q&A](https://youtu.be/29colSG9nxg) w/Josh Knell
 ***
 ### Day 19: Fri, Feb. 2
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge--Responsive-Less) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
