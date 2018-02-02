@@ -355,7 +355,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 #### [Code Challenge ##: Sort Strings](https://youtu.be/kNyaYGp2enY) w/Satish Vattikuti
 #### [Responsive Web Design - Percent Based Layout](https://youtu.be/epa5QFFpGHI) w/Josh Knell
 #### [Responsive Web Design II: Guided Demo](https://youtu.be/XDO7yc7aAFc) w/Josh Knell
-#### [Responsive Web Design II: Q&A](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+#### [Responsive Web Design II: Q&A](https://youtu.be/29colSG9nxg) w/Josh Knell
 ***
 ### Day 19: Fri, Feb. 2
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
