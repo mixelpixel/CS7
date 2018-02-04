@@ -386,13 +386,15 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 # Week 05: Mon. Feb 5 - 9
 ## React 1 w/Luis Hernandez
 - [React I Pre-Class Video](https://youtu.be/Ty9DTVIaATY) w/Sean Chen 46 min
+- https://reactjs.org/docs/thinking-in-react.html
+### Week 05 assignments
 - https://github.com/LambdaSchool/React-I-Demo
 - https://github.com/LambdaSchool/React-I-Mini-Sprint
 - https://github.com/LambdaSchool/React-I
-- https://github.com/LambdaSchool/Sprint-Challenge---React
 - https://github.com/LambdaSchool/React-II-Demo
 - https://github.com/LambdaSchool/React-II-Mini-Sprint
-- https://github.com/LambdaSchool/React-II - Thursday
+- https://github.com/LambdaSchool/React-II
+- https://github.com/LambdaSchool/Sprint-Challenge---React
 
 ### Day ##: Mon, Mon. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
