@@ -396,31 +396,31 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 - https://github.com/LambdaSchool/React-II
 - https://github.com/LambdaSchool/Sprint-Challenge---React
 
-### Day ##: Mon, Mon. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 20: Mon, Feb. 5
+#### [Code Challenge 16: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
-### Day ##: Tue, Mon. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 21: Tue, Feb. 6
+#### [Code Challenge 17: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti or Manisha Lal
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
-### Day ##: Wed, Mon. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 22: Wed, Feb. 7
+#### [Code Challenge 18: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti or Manisha Lal
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
-### Day ##: Thu, Mon. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 23: Thu, Feb. 8
+#### [Code Challenge 19: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
-### Day ##: Fri, Mon. ##
+### Day 24: Fri, Feb. 9
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 
 
 ***
