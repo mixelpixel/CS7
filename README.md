@@ -204,6 +204,8 @@ function longestConsecutive(arr, k) {
 - https://github.com/lambdaschool/preprocessing-one
 - https://github.com/LambdaSchool/Preprocessing-2
 - https://github.com/LambdaSchool/responsive-web-design
+- https://github.com/LambdaSchool/Sprint-Challenge--Responsive-Less
+- https://codepen.io/joshlambda/pen/xYwoYe?editors=1100
 
 ##### Posted in Slack, Sunday prior: https://lambdaschoolstudents.slack.com/archives/C8ZM4HHD3/p1517169440000109
 
@@ -256,6 +258,16 @@ $ sudo npm install -g less
 - W3 Schools! Seriously, good intro here :wink: https://www.w3schools.com/css/css_rwd_intro.asp
 - Optional reading (recommended if you really like design): https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/
 ##### Day 4 - Responsive Web Design Advanced
+- Get familiar with em, rem, and px!   https://engageinteractive.co.uk/blog/em-vs-rem-vs-px
+- Optional extended reading on units: https://benfrain.com/just-use-pixels/ (edited)
+- Percent based Layouts: https://youtu.be/epa5QFFpGHI
+- Exercise 1: https://codepen.io/bigknell/pen/eVNoVp?editors=1100
+- Exercise 2: https://codepen.io/bigknell/pen/qxdgYJ?editors=1100
+- ALSO:
+- https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis
+- http://jonibologna.com/flexbox-cheatsheet/
+- Bootstrap example: https://codepen.io/bigknell/pen/QQbzjz?editors=1010
 
 ***
 
@@ -359,9 +371,9 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 ### Day 19: Fri, Feb. 2
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge--Responsive-Less) NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+#### [Brown Bag: CS2 Capstone Demo](https://youtu.be/ArzxiheN1_c) w/CS2
+#### [Responsive Web & LESS Sprint Challenge Solution](https://youtu.be/lTx5muhNJRg) w/Josh Knell
+#### [Intro to Slack command: `/question`](https://youtu.be/sFWZ5dGQebI) w/Patrick Kennedy
 
 </p></details>
 
@@ -373,6 +385,7 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 
 # Week 05: Mon. Feb 5 - 9
 ## React 1 w/Luis Hernandez
+- [React I Pre-Class Video](https://youtu.be/Ty9DTVIaATY) w/Sean Chen 46 min
 - https://github.com/LambdaSchool/React-I-Demo
 - https://github.com/LambdaSchool/React-I-Mini-Sprint
 - https://github.com/LambdaSchool/React-I
