@@ -425,30 +425,31 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week 06: Feb. 12 - 16
+## React 2 w/???
+### Week 06 assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day 25: Mon, Feb. 12
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day 26: Tue, Feb. 13
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day 27: Wed, Feb. 14
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day 28: Thu, Feb. 15
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day 29: Fri, Feb. 16
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
