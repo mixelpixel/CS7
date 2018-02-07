@@ -388,26 +388,25 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 - [React I Pre-Class Video](https://youtu.be/Ty9DTVIaATY) w/Sean Chen 46 min
 - https://reactjs.org/docs/thinking-in-react.html
 ### Week 05 assignments
-- https://github.com/LambdaSchool/React-I-Demo
 - https://github.com/LambdaSchool/React-I-Mini-Sprint
 - https://github.com/LambdaSchool/React-I
-- https://github.com/LambdaSchool/React-II-Demo
-- https://github.com/LambdaSchool/React-II-Mini-Sprint
 - https://github.com/LambdaSchool/React-II
 - https://github.com/LambdaSchool/Sprint-Challenge---React
 
 ### Day 20: Mon, Feb. 5
-#### [Code Challenge 16: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Code Challenge 16: To Binary String](https://youtu.be/zxdU1Fsctko) w/Patrick Kennedy
+- solution: https://piazza.com/class/jc6vhnh8mdl5pw?cid=67
+#### [Guided Demo Part 1 - First steps with React and create-react-app](https://youtu.be/7JCUqSMlh_U) w/Luis Hernandez
+#### [Git windows installation adding Unix tools to Command Prompt](https://youtu.be/WydxMKxsrWk) w/Luis Hernandez
+#### [Q and A, class components and introduction to state](https://youtu.be/9Gt5M2tacoM) w/Luis Hernandez
 ***
 ### Day 21: Tue, Feb. 6
-#### [Code Challenge 17: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti or Manisha Lal
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Code Challenge 17: Prime List](https://youtu.be/S-rgjmPfyD4) w/Satish Vattikuti
+#### [Guided Demo Part 2 - Add and Remove examples](https://youtu.be/5NCAA5rZlws) w/Luis Hernandez
+#### [Q and A Part 2 - review of core concepts and relative path navigation](https://youtu.be/cJ9aKBC0NNg) w/Luis Hernandez
 ***
 ### Day 22: Wed, Feb. 7
-#### [Code Challenge 18: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti or Manisha Lal
+#### [Code Challenge 18: Days Between](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
