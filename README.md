@@ -407,11 +407,12 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 ***
 ### Day 22: Wed, Feb. 7
 #### [Code Challenge 18: Days Between](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Guided Demo Part 3 - Styling React Components](https://youtu.be/ZxP6WMnJx_U) w/Luis Hernandez
+#### [How to create a GitHub repository and connect it to an application built with create-react-app](https://youtu.be/-S6QuT-rJSU) w/Luis Hernandez
+#### [Q and A Part 3](https://youtu.be/UpCKoUL7Mk8) w/Luis Hernandez
 ***
 ### Day 23: Thu, Feb. 8
-#### [Code Challenge 19: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
+#### [Code Challenge 19: Expanded Numbers](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
