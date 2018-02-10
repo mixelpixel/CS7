@@ -96,95 +96,6 @@
 ***
 ### Day 13: Thu, Jan. 25
 #### [Code Challenge 11: Consecutive Strings](https://youtu.be/Ft_nfW8GKiQ) w/Patrick Kennedy
-
-<details><summary>Consecutive Strings Solution</summary><p>
-
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/consolelog.png" height="200px" width="200px">
-
-- https://piazza.com/class/jc6vhnh8mdl5pw?cid=40
-
-```js
-/*
-  You are given an array of strings called arr and an integer k.
-  Your task is to return the longest string consisting of k consecutive
-  strings from the array.
-
-  n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
- */
-
-function longestConsecutive(arr, k) {
-  // n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
-  // n = arr.length
-  if (arr.length === 0 || arr.length < k || k <= 0) return '';
-
-  // return the longest string consisting of k consecutive strings from the array.
-  return arr
-    .map((value, index) => (
-      arr.slice(index, index + k).join('')
-      ))
-    .reduce((longest, current) => (current.length > longest.length) ? current : longest);
-}
-
-// TEST SUITE - swEEt!
-// console.log(longestConsecutive([], 1), "empty string")      // <--- '' - arr.length === 0
-// console.log(longestConsecutive(["one"], 2), "empty string") // <--- '' - arr.length < k
-// console.log(longestConsecutive(['something'], -1), "empty string")     // <--- '' - k <= 0
-
-// const array = ['1', '22', '333', '55555', '4444', 'xx', '666666', 'ggg', 'q', 'kk'];
-// console.log(array.length);      // <--- 10
-// console.log(array.slice(3, 6)); // <--- [ '55555', '4444', 'xx' ]
-// console.log(array.join(''));    // <--- 122333555554444xx666666gggqkk
-// console.log(array.map((value, index) => (array.slice(index, index + 2).join('')))); // <--- ugly
-// console.log(array.reduce((longest, current) => current.length > longest.length ? current : longest)); // <--- six sixes
-
-
-// console.log(longestConsecutive(["zone", "abigail", "theta", "form", "libe", "zas"], 2)) // <--- "abigailtheta"
-// console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "form", "libe", "zas"], 3)) // <--- abi theta anti
-// console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "capybara", "form", "libe", "zas"], 3)) // <--- theta anti capy
-
-/*
- RESOURCES: google search "MDN {method name}", W3 schools, Free Code Camp
- ARRAY METHODS
- SLICE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
- JOIN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
- MAP: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
- REDUCE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
- ALSO GOOD: https://medium.freecodecamp.org/reduce-f47a7da511a9
- */
-```
-
-#### Truth Table: Inclusive Or
-- If ANY one of the variables evaluates to `true`, then the entire proposition evaluates to `true`.
-- There are three terms: `phi`, `psi` & `fry`.
-- Each term has two possible states: `true` or `false`.
-- The total number of _possible_ combination of three terms which each have two possible states is...?
-- Number of ***states*** (either true or false) raised to the power of the number of ***terms*** (phi, psi & fry), i.e. 2<sup>3</sup>, or (2 \* 2 \* 2), a.k.a. *eight*:
-
-| # | phi | psi | fry | "phi inclusive_or psi inclusive_or fry" |
-|:---|:---:|:---:|:---:|:---:|
-| 1) | T | T | T | True |
-| 2) | T | T | F | True |
-| 3) | T | F | T | True |
-| 4) | T | F | F | True |
-| 5) | F | T | T | True |
-| 6) | F | T | F | True |
-| 7) | F | F | T | True |
-| 8) | F | F | F | False |
-
-#### Exclusive Or (with only two terms)
-- Just a quick explanation of the difference between exclusive and inclusive or logic.
-- An _exclusive_ "or" operator evaluates to true when ONLY one of the terms (operands) is true.
-- i.e. "I will have either a cheese burger, or pizza, but _not both_"
-
-| Φ | Ψ | "Φ exclusive_or Ψ" |
-|:---:|:---:|:---:|
-| T | T | False |
-| T | F | True |
-| F | T | True |
-| F | F | False |
-
-</p></details>
-
 #### [Introduction to DOM and manipulation with Vanilla JS - Q&A 2](https://youtu.be/qpI5z1DAiuY) w/Ivan Mora
 #### [Introduction to DOM and manipulation with Vanilla JS - Q&A 3](https://youtu.be/7qi6vrzgyNE) w/Ivan Mora
 ***
@@ -273,83 +184,6 @@ $ sudo npm install -g less
 
 ### Day 15: Mon, Jan. 29
 #### [Code Challenge 12: Sum of Digits](https://youtu.be/udMpY37k7ng) w/Patrick Kennedy
-
-<details><summary>Sum Of Digits Solutions</summary><p>
-
-```js
-/*
- * Sum Of Digits
- * Write a function called sumOfDigits that given a positive integer, returns the sum of its digits.
- * Assume all numbers will be positive.
- *
- * Input: 23  >>>function>>> Output: 5
- * Input: 496 >>>function>>> Output: 19
-*/
-
-// SOLUTION 1 - everyone loves for loops!
-function sumOfDigits (num) {
-  const integerStrings = ('' + num).split(''); // does the same thing as the next line
-  // const integerStrings = String(num).split(''); // I find this reads better
-  console.log(typeof(integerStrings)) // <--- 'object' (JA arrays are objects - Everything Is Objects!!!)
-
-  const len = integerStrings.length;
-  console.log(integerStrings);        // <--- should return an array of strings
-
-  // declaring variables to be used in the for loop
-  let i = 0,
-    sum = 0;
-
-  // For-Loop Love!
-  for (i; i < len; i++) {
-    sum += Number(integerStrings[i]); // <--- turns the strings into type: integers
-    console.log(sum);                 // <--- sum of adding up all ints in the array of ints
-  }
-
-  return sum;
-}
-
-// SOLUTION 2 - using map() and reduce()
-function sumOfDigits (num) {
-  const stringIntegers = String(num).split('');
-  console.log(`strInts.len: ${stringIntegers.length} & the strInts ${stringIntegers} are: ${typeof(stringIntegers[0])}`);
-
-  const integers = stringIntegers.map(num => Number(num));
-  console.log(`integers: ${integers} are: ${typeof(integers[0])}`);
-
-  const sum = integers.reduce((sum, n) => sum + n, 0);
-  return sum;
-}
-
-// CS1 MODEL SOLUTION - w/dot chaining
-function sumOfDigits(num) {
-  const digits = (String(num)).split('')
-    .map(num => parseInt(num))
-    .reduce((sum, n) => sum + n);
-  return digits;
-}
-
-// MODEL SOLUTION - just return it!
-function sumOfDigits(num) {
-  return (String(num)).split('')
-    .map(num => parseInt(num))
-    .reduce((sum, n) => sum + n);
-}
-
-/* eslint no-console: 0 */
-// TEST SUITE
-const x = 12345;
-console.log(sumOfDigits(x));           // ~~~> 15
-console.log(sumOfDigits(23));          // ~~~> 5
-console.log(sumOfDigits(496));         // ~~~> 19
-console.log(typeof(sumOfDigits(496))); // ~~~> number
-console.log(typeof(Number(x)));        // <--- number
-console.log(typeof(String(x)));        // <--- string
-console.log(typeof(parseInt(x)));      // <--- number
-console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
-```
-
-</p></details>
-
 #### [CSS Preprocessor Intro](https://youtu.be/YlYTye2UOzg) w/Josh Knell
 #### [CSS Preprocessor Intro Q&A](https://youtu.be/5uffIhKvPUo) w/Josh Knell
 ***
@@ -427,26 +261,27 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 
 
 # Week 06: Feb. 12 - 16
-## React 2 w/???
+## React 2 w/Luis Hernandez
+- [Pre-Class Video](https://youtu.be/ENNS0YeCLA0)
 ### Week 06 assignments
 - GitHub Repositories
 ### Day 25: Mon, Feb. 12
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 26: Tue, Feb. 13
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 27: Wed, Feb. 14
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 28: Thu, Feb. 15
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
@@ -1170,5 +1005,176 @@ console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+
+</p></details>
+
+<details><summary>Code Challenges</summary><p>
+
+<details><summary>Consecutive Strings Solution</summary><p>
+
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/consolelog.png" height="200px" width="200px">
+
+- https://piazza.com/class/jc6vhnh8mdl5pw?cid=40
+
+```js
+/*
+  You are given an array of strings called arr and an integer k.
+  Your task is to return the longest string consisting of k consecutive
+  strings from the array.
+
+  n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
+ */
+
+function longestConsecutive(arr, k) {
+  // n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
+  // n = arr.length
+  if (arr.length === 0 || arr.length < k || k <= 0) return '';
+
+  // return the longest string consisting of k consecutive strings from the array.
+  return arr
+    .map((value, index) => (
+      arr.slice(index, index + k).join('')
+      ))
+    .reduce((longest, current) => (current.length > longest.length) ? current : longest);
+}
+
+// TEST SUITE - swEEt!
+// console.log(longestConsecutive([], 1), "empty string")      // <--- '' - arr.length === 0
+// console.log(longestConsecutive(["one"], 2), "empty string") // <--- '' - arr.length < k
+// console.log(longestConsecutive(['something'], -1), "empty string")     // <--- '' - k <= 0
+
+// const array = ['1', '22', '333', '55555', '4444', 'xx', '666666', 'ggg', 'q', 'kk'];
+// console.log(array.length);      // <--- 10
+// console.log(array.slice(3, 6)); // <--- [ '55555', '4444', 'xx' ]
+// console.log(array.join(''));    // <--- 122333555554444xx666666gggqkk
+// console.log(array.map((value, index) => (array.slice(index, index + 2).join('')))); // <--- ugly
+// console.log(array.reduce((longest, current) => current.length > longest.length ? current : longest)); // <--- six sixes
+
+
+// console.log(longestConsecutive(["zone", "abigail", "theta", "form", "libe", "zas"], 2)) // <--- "abigailtheta"
+// console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "form", "libe", "zas"], 3)) // <--- abi theta anti
+// console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "capybara", "form", "libe", "zas"], 3)) // <--- theta anti capy
+
+/*
+ RESOURCES: google search "MDN {method name}", W3 schools, Free Code Camp
+ ARRAY METHODS
+ SLICE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+ JOIN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+ MAP: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+ REDUCE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+ ALSO GOOD: https://medium.freecodecamp.org/reduce-f47a7da511a9
+ */
+```
+
+#### Truth Table: Inclusive Or
+- If ANY one of the variables evaluates to `true`, then the entire proposition evaluates to `true`.
+- There are three terms: `phi`, `psi` & `fry`.
+- Each term has two possible states: `true` or `false`.
+- The total number of _possible_ combination of three terms which each have two possible states is...?
+- Number of ***states*** (either true or false) raised to the power of the number of ***terms*** (phi, psi & fry), i.e. 2<sup>3</sup>, or (2 \* 2 \* 2), a.k.a. *eight*:
+
+| # | phi | psi | fry | "phi inclusive_or psi inclusive_or fry" |
+|:---|:---:|:---:|:---:|:---:|
+| 1) | T | T | T | True |
+| 2) | T | T | F | True |
+| 3) | T | F | T | True |
+| 4) | T | F | F | True |
+| 5) | F | T | T | True |
+| 6) | F | T | F | True |
+| 7) | F | F | T | True |
+| 8) | F | F | F | False |
+
+#### Exclusive Or (with only two terms)
+- Just a quick explanation of the difference between exclusive and inclusive or logic.
+- An _exclusive_ "or" operator evaluates to true when ONLY one of the terms (operands) is true.
+- i.e. "I will have either a cheese burger, or pizza, but _not both_"
+
+| Φ | Ψ | "Φ exclusive_or Ψ" |
+|:---:|:---:|:---:|
+| T | T | False |
+| T | F | True |
+| F | T | True |
+| F | F | False |
+
+</p></details>
+
+
+<details><summary>Sum Of Digits Solutions</summary><p>
+
+```js
+/*
+ * Sum Of Digits
+ * Write a function called sumOfDigits that given a positive integer, returns the sum of its digits.
+ * Assume all numbers will be positive.
+ *
+ * Input: 23  >>>function>>> Output: 5
+ * Input: 496 >>>function>>> Output: 19
+*/
+
+// SOLUTION 1 - everyone loves for loops!
+function sumOfDigits (num) {
+  const integerStrings = ('' + num).split(''); // does the same thing as the next line
+  // const integerStrings = String(num).split(''); // I find this reads better
+  console.log(typeof(integerStrings)) // <--- 'object' (JA arrays are objects - Everything Is Objects!!!)
+
+  const len = integerStrings.length;
+  console.log(integerStrings);        // <--- should return an array of strings
+
+  // declaring variables to be used in the for loop
+  let i = 0,
+    sum = 0;
+
+  // For-Loop Love!
+  for (i; i < len; i++) {
+    sum += Number(integerStrings[i]); // <--- turns the strings into type: integers
+    console.log(sum);                 // <--- sum of adding up all ints in the array of ints
+  }
+
+  return sum;
+}
+
+// SOLUTION 2 - using map() and reduce()
+function sumOfDigits (num) {
+  const stringIntegers = String(num).split('');
+  console.log(`strInts.len: ${stringIntegers.length} & the strInts ${stringIntegers} are: ${typeof(stringIntegers[0])}`);
+
+  const integers = stringIntegers.map(num => Number(num));
+  console.log(`integers: ${integers} are: ${typeof(integers[0])}`);
+
+  const sum = integers.reduce((sum, n) => sum + n, 0);
+  return sum;
+}
+
+// CS1 MODEL SOLUTION - w/dot chaining
+function sumOfDigits(num) {
+  const digits = (String(num)).split('')
+    .map(num => parseInt(num))
+    .reduce((sum, n) => sum + n);
+  return digits;
+}
+
+// MODEL SOLUTION - just return it!
+function sumOfDigits(num) {
+  return (String(num)).split('')
+    .map(num => parseInt(num))
+    .reduce((sum, n) => sum + n);
+}
+
+/* eslint no-console: 0 */
+// TEST SUITE
+const x = 12345;
+console.log(sumOfDigits(x));           // ~~~> 15
+console.log(sumOfDigits(23));          // ~~~> 5
+console.log(sumOfDigits(496));         // ~~~> 19
+console.log(typeof(sumOfDigits(496))); // ~~~> number
+console.log(typeof(Number(x)));        // <--- number
+console.log(typeof(String(x)));        // <--- string
+console.log(typeof(parseInt(x)));      // <--- number
+console.log(String(x).split(''));      // <--- [ '1', '2', '3', '4', '5' ]
+```
+
+</p></details>
+
+
 
 </p></details>
