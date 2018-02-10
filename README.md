@@ -1008,6 +1008,8 @@ $ sudo npm install -g less
 
 </p></details>
 
+***
+
 <details><summary>Code Challenges</summary><p>
 
 <details><summary>Consecutive Strings Solution</summary><p>
