@@ -265,7 +265,9 @@ $ sudo npm install -g less
 - [Pre-Class Video](https://youtu.be/ENNS0YeCLA0)
 - https://codeburst.io/javascript-promises-explained-with-simple-real-life-analogies-dd6908092138
 ### Week 06 assignments
-- GitHub Repositories
+- https://github.com/LambdaSchool/HTTP-Mini-Sprint
+- https://github.com/LambdaSchool/HTTP-AJAX
+
 ### Day 25: Mon, Feb. 12
 #### [Code Challenge 20: Rock, Paper, Scissors](https://youtu.be/usMuIvnTRfs) w/Patrick Kennedy
 #### [Guided Demo - Introduction to HTTP Ajax and Promises](https://youtu.be/puxkuf1zw1A) w/Luis Hernandez
