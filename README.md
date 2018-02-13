@@ -263,25 +263,26 @@ $ sudo npm install -g less
 # Week 06: Feb. 12 - 16
 ## React 2 w/Luis Hernandez
 - [Pre-Class Video](https://youtu.be/ENNS0YeCLA0)
+- https://codeburst.io/javascript-promises-explained-with-simple-real-life-analogies-dd6908092138
 ### Week 06 assignments
 - GitHub Repositories
 ### Day 25: Mon, Feb. 12
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge 20: Rock, Paper, Scissors](https://youtu.be/usMuIvnTRfs) w/Patrick Kennedy
+#### [Guided Demo - Introduction to HTTP Ajax and Promises](https://youtu.be/puxkuf1zw1A) w/Luis Hernandez
+#### [Q&A](https://youtu.be/G6AS65DEhYo) w/Satish, Wesley and Patrick
 ***
 ### Day 26: Tue, Feb. 13
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
+#### [Code Challenge 21: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 27: Wed, Feb. 14
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
+#### [Code Challenge 22: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 28: Thu, Feb. 15
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
+#### [Code Challenge 23: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
