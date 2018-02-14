@@ -275,23 +275,23 @@ $ sudo npm install -g less
 ***
 ### Day 26: Tue, Feb. 13
 #### [Code Challenge 21: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Guided Demo Part 2 - Implementing Post and Pair Programming Demo](https://youtu.be/jblkjTbeHyk) w/SPEAKER
+#### [Q&A - Implementing Delete and Lifting State Up](https://youtu.be/lqF115-61LI) w/Luis Hernandez
 ***
 ### Day 27: Wed, Feb. 14
 #### [Code Challenge 22: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
 ### Day 28: Thu, Feb. 15
 #### [Code Challenge 23: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
 ### Day 29: Fri, Feb. 16
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 
 
 ***
