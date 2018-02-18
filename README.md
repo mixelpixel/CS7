@@ -262,11 +262,13 @@ $ sudo npm install -g less
 
 # Week 06: Feb. 12 - 16
 ## React 2 w/Luis Hernandez
-- [Pre-Class Video](https://youtu.be/ENNS0YeCLA0)
+- Pre-Class Video: https://youtu.be/ENNS0YeCLA0
 - https://codeburst.io/javascript-promises-explained-with-simple-real-life-analogies-dd6908092138
-### Week 06 assignments
+### Week 06 Assignments
 - https://github.com/LambdaSchool/HTTP-Mini-Sprint
 - https://github.com/LambdaSchool/HTTP-AJAX
+- https://github.com/LambdaSchool/Client-Side-Routing
+- https://github.com/LambdaSchool/Sprint-Challenge-Routing-Axios
 
 ### Day 25: Mon, Feb. 12
 #### [Code Challenge 20: Rock, Paper, Scissors](https://youtu.be/usMuIvnTRfs) w/Patrick Kennedy
@@ -274,85 +276,85 @@ $ sudo npm install -g less
 #### [Q&A](https://youtu.be/G6AS65DEhYo) w/Satish, Wesley and Patrick
 ***
 ### Day 26: Tue, Feb. 13
-#### [Code Challenge 21: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
-#### [Guided Demo Part 2 - Implementing Post and Pair Programming Demo](https://youtu.be/jblkjTbeHyk) w/SPEAKER
+#### [Code Challenge 21: Merged Objects](https://youtu.be/HNNgEO4eoa4) w/Satish Vattikuti
+#### [Guided Demo Part 2 - Implementing Post and Pair Programming Demo](https://youtu.be/jblkjTbeHyk) w/Luis Hernandez
 #### [Q&A - Implementing Delete and Lifting State Up](https://youtu.be/lqF115-61LI) w/Luis Hernandez
 ***
 ### Day 27: Wed, Feb. 14
-#### [Code Challenge 22: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Code Challenge 22: Is Twin Prime?](https://youtu.be/OFaiYw3epy0) w/Manisha Lal
+#### [Guided Demo - Introduction to React Router](https://youtu.be/LJ9B57ZKXcM) w/Luis Hernandez
+#### [LECTURE](https://youtu.be/k2nOAYnT2rI) w/Luis Hernandez
 ***
 ### Day 28: Thu, Feb. 15
-#### [Code Challenge 23: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Code Challenge 23: Insertion Sort](https://youtu.be/KAIWkriM0WI) w/Tyge Johnson
+#### [Q&A - React Router](https://youtu.be/k2nOAYnT2rI) w/Luis Hernandez
 ***
 ### Day 29: Fri, Feb. 16
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Routing-Axios.git) NEW_SPRINT_CHALLENGE
+#### [Brown Bag](https://youtu.be/MeQZby2OMTM) w/Sean Chen: Parallel Algorithm Design
+#### [Sprint Challenge Review](https://youtu.be/XweeO6kmB7c) w/Luis Hernandez: React Router and AJAX Update/Put
+
+
+***
+
+
+# Week 07: Feb. 18 - 22
+## Redux w/Ivan Mora
+- Pre Class video: https://youtu.be/Ozx4FH4iKWc
+## Week 07 Assignments
+- GitHub Repositories
+### Mon, Feb. 18 PRESIDENT'S DAY
+***
+### Day 30: Tue, Feb. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+***
+### Day 31: Wed, Feb. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattihuti
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+***
+### Day 32: Thu, Feb. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+***
+### Day 33: Fri, Feb. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
 
 
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-
-
-***
-
-
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
-- GitHub Repositories
-### Day ##: Mon, Mon. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Tue, Mon. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Wed, Mon. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Thu, Mon. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -365,30 +367,32 @@ $ sudo npm install -g less
 
 <details><summary>Month 3: March, 2018</summary><p>
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -397,30 +401,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -429,30 +435,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -461,30 +469,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -495,30 +505,32 @@ $ sudo npm install -g less
 
 <details><summary>Month 4: April, 2018</summary><p>
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -527,30 +539,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -559,30 +573,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -591,30 +607,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -625,30 +643,32 @@ $ sudo npm install -g less
 
 <details><summary>Month 5: May, 2018</summary><p>
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -657,30 +677,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -689,30 +711,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -721,30 +745,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -755,30 +781,32 @@ $ sudo npm install -g less
 
 <details><summary>Month 6: June, 2018</summary><p>
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -787,30 +815,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -819,30 +849,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -851,30 +883,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -885,30 +919,32 @@ $ sudo npm install -g less
 
 <details><summary>Month 7: July, 2018</summary><p>
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -917,30 +953,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -949,30 +987,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -981,30 +1021,32 @@ $ sudo npm install -g less
 ***
 
 
-# Week ##: Mon. ## - ##
-## WEEKLY_SUBJECT
+# Week ##: MON. ## - ##
+## WEEKLY_SUBJECT w/INSTRUCTOR
+- Pre-Class video:
+## Week ## Assignments
 - GitHub Repositories
-### Day ##: Mon, Mon. ##
+### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, Mon. ##
+### Day ##: Tue, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, Mon. ##
+### Day ##: Wed, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, Mon. ##
+### Day ##: Thu, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, Mon. ##
+### Day ##: Fri, MON. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
