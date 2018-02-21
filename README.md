@@ -302,25 +302,26 @@ change
 ## Redux w/Ivan Mora
 - Pre Class video: https://youtu.be/Ozx4FH4iKWc
 ## Week 07 Assignments
-- GitHub Repositories
+- https://github.com/LambdaSchool/Redux-I-Mini
+- https://github.com/LambdaSchool/Redux
 ### Mon, Feb. 18 PRESIDENT'S DAY
 ***
-### Day 30: Tue, Feb. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+### Day 30: Tue, Feb. 19
+#### [Code Challenge 24: Operators](https://youtu.be/tgNSVfND0CQ) w/Patrick Kennedy
+#### [Introduction to Redux I - Immutability](https://youtu.be/sUjIMl75yUE) w/Ivan Mora
+#### [Redux I - Q&A](https://youtu.be/LyqMglL0nyY) w/Ivan Mora
+***
+### Day 31: Wed, Feb. 20
+#### [Code Challenge 25: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattihuti
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
 ***
-### Day 31: Wed, Feb. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattihuti
+### Day 32: Thu, Feb. 21
+#### [Code Challenge 26: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
 ***
-### Day 32: Thu, Feb. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
-***
-### Day 33: Fri, Feb. ##
+### Day 33: Fri, Feb. 22
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
