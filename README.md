@@ -299,11 +299,17 @@ $ sudo npm install -g less
 change
 
 # Week 07: Feb. 18 - 22
-## Redux w/Ivan Mora
+## Redux w/Ivan Mora & Sean Chen
 - Pre Class video: https://youtu.be/Ozx4FH4iKWc
 ## Week 07 Assignments
 - https://github.com/LambdaSchool/Redux-I-Mini
 - https://github.com/LambdaSchool/Redux
+- https://github.com/LambdaSchool/Redux-II
+## Redux-II prep
+- [Pre class videos](https://youtu.be/DJ8fR0mZM44) PLEASE watch this video in this Tutorial Series. And then watch #6
+- [Async Actions in Redux](https://youtu.be/Td-2D-_7Y2E)
+- [Some delightful docs!](https://redux.js.org/docs/advanced/AsyncActions.html)
+
 ### Mon, Feb. 18 PRESIDENT'S DAY
 ***
 ### Day 30: Tue, Feb. 19
@@ -312,19 +318,20 @@ change
 #### [Redux I - Q&A](https://youtu.be/LyqMglL0nyY) w/Ivan Mora
 ***
 ### Day 31: Wed, Feb. 20
-#### [Code Challenge 25: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattihuti
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [Code Challenge 25: Equal Sides](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattihuti
+#### [Redux I mini - Solution](https://youtu.be/JN5JKj_fFz4) w/Ivan Mora
+#### [GitHub "Collaboration" & Pair Programming](https://youtu.be/iDhvng6KsSo) w/Tai Chulikavit, Boomer & Patrick Kennedy
+#### [Redux I - Q&A](VIDEO_RECORDED_NOT_POSTED) w/TAs
 ***
 ### Day 32: Thu, Feb. 21
 #### [Code Challenge 26: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
 ### Day 33: Fri, Feb. 22
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 
 
 ***
