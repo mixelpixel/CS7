@@ -318,14 +318,14 @@ change
 #### [Redux I - Q&A](https://youtu.be/LyqMglL0nyY) w/Ivan Mora
 ***
 ### Day 31: Wed, Feb. 20
-#### [Code Challenge 25: Equal Sides](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattihuti
+#### [Code Challenge 25: Equal Sides](https://youtu.be/ssfwNPDiLCs) w/Satish Vattihuti
 #### [Redux I mini - Solution](https://youtu.be/JN5JKj_fFz4) w/Ivan Mora
 #### [GitHub "Collaboration" & Pair Programming](https://youtu.be/iDhvng6KsSo) w/Tai Chulikavit, Boomer & Patrick Kennedy
-#### [Redux I - Q&A](VIDEO_RECORDED_NOT_POSTED) w/TAs
+#### [Redux I - Q&A](https://youtu.be/ucZYQ0mmOcg) w/TAs
 ***
 ### Day 32: Thu, Feb. 21
-#### [Code Challenge 26: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Code Challenge 26: Check Matching Leaves](https://youtu.be/saBBuZ4-50M) w/Manisha Lal
+#### [Redux I Solution Lecture & Redux II Lecture](https://youtu.be/M5qQgJoxug0) w/Sean Chen
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
 ### Day 33: Fri, Feb. 22
