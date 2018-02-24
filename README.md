@@ -298,71 +298,72 @@ $ sudo npm install -g less
 ***
 change
 
-# Week 07: Feb. 18 - 22
+# Week 07: Feb. 19 - 23
 ## Redux w/Ivan Mora & Sean Chen
 - Pre Class video: https://youtu.be/Ozx4FH4iKWc
 ## Week 07 Assignments
 - https://github.com/LambdaSchool/Redux-I-Mini
 - https://github.com/LambdaSchool/Redux
 - https://github.com/LambdaSchool/Redux-II
+- https://github.com/LambdaSchool/Sprint-Challenge--Redux
 ## Redux-II prep
 - [Pre class videos](https://youtu.be/DJ8fR0mZM44) PLEASE watch this video in this Tutorial Series. And then watch #6
 - [Async Actions in Redux](https://youtu.be/Td-2D-_7Y2E)
 - [Some delightful docs!](https://redux.js.org/docs/advanced/AsyncActions.html)
 
-### Mon, Feb. 18 PRESIDENT'S DAY
+### Mon, Feb. 19 PRESIDENT'S DAY
 ***
-### Day 30: Tue, Feb. 19
+### Day 30: Tue, Feb. 20
 #### [Code Challenge 24: Operators](https://youtu.be/tgNSVfND0CQ) w/Patrick Kennedy
 #### [Introduction to Redux I - Immutability](https://youtu.be/sUjIMl75yUE) w/Ivan Mora
 #### [Redux I - Q&A](https://youtu.be/LyqMglL0nyY) w/Ivan Mora
 ***
-### Day 31: Wed, Feb. 20
+### Day 31: Wed, Feb. 21
 #### [Code Challenge 25: Equal Sides](https://youtu.be/ssfwNPDiLCs) w/Satish Vattihuti
 #### [Redux I mini - Solution](https://youtu.be/JN5JKj_fFz4) w/Ivan Mora
 #### [GitHub "Collaboration" & Pair Programming](https://youtu.be/iDhvng6KsSo) w/Tai Chulikavit, Boomer & Patrick Kennedy
 #### [Redux I - Q&A](https://youtu.be/ucZYQ0mmOcg) w/TAs
 ***
-### Day 32: Thu, Feb. 21
+### Day 32: Thu, Feb. 22
 #### [Code Challenge 26: Check Matching Leaves](https://youtu.be/saBBuZ4-50M) w/Manisha Lal
 #### [Redux I Solution Lecture & Redux II Lecture](https://youtu.be/M5qQgJoxug0) w/Sean Chen
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Redux-II Q&A 1](https://youtu.be/dNBtg6vBctc) w/Sean Chen
 ***
-### Day 33: Fri, Feb. 22
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+### Day 33: Fri, Feb. 23
+#### [Code Challenge 27: Markdown Tables](https://youtu.be/NiXv54vJW4s) w/Patrick Kennedy
+#### [Redux II Solution Lecture](https://youtu.be/TD02_nz_-hg) w/Sean Chen
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge--Redux)
 
 
 ***
 
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
+# Week 08 Feb.26 - Mar. 2
+## Front-End Project w/Josh Knell
 - Pre-Class video:
-## Week ## Assignments
-- GitHub Repositories
-### Day ##: Mon, MON. ##
+## Week 07 Assignments
+- Front-End Project
+### Day 34: Mon, Feb. 26
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Tue, MON. ##
+### Day 35: Tue, Feb. 27
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Wed, MON. ##
+### Day 36: Wed, Feb. 28
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Thu, MON. ##
+### Day 37: Thu, Mar. 1
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
-### Day ##: Fri, MON. ##
+### Day 38: Fri, Mar. 2
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
