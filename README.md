@@ -340,7 +340,6 @@ change
 
 # Week 08 Feb.26 - Mar. 2
 ## Front-End Project w/Josh Knell
-- Pre-Class video:
 ## Week 07 Assignments
 - Front-End Project
 ### Day 34: Mon, Feb. 26
