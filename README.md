@@ -221,7 +221,7 @@ $ sudo npm install -g less
 ## React 1 w/Luis Hernandez
 - [React I Pre-Class Video](https://youtu.be/Ty9DTVIaATY) w/Sean Chen 46 min
 - https://reactjs.org/docs/thinking-in-react.html
-### Week 05 assignments
+### Assignments
 - https://github.com/LambdaSchool/React-I-Mini-Sprint
 - https://github.com/LambdaSchool/React-I
 - https://github.com/LambdaSchool/React-II
@@ -264,7 +264,7 @@ $ sudo npm install -g less
 ## React 2 w/Luis Hernandez
 - Pre-Class Video: https://youtu.be/ENNS0YeCLA0
 - https://codeburst.io/javascript-promises-explained-with-simple-real-life-analogies-dd6908092138
-### Week 06 Assignments
+### Assignments
 - https://github.com/LambdaSchool/HTTP-Mini-Sprint
 - https://github.com/LambdaSchool/HTTP-AJAX
 - https://github.com/LambdaSchool/Client-Side-Routing
@@ -301,7 +301,7 @@ change
 # Week 07: Feb. 19 - 23
 ## Redux w/Ivan Mora & Sean Chen
 - Pre Class video: https://youtu.be/Ozx4FH4iKWc
-## Week 07 Assignments
+## Assignments
 - https://github.com/LambdaSchool/Redux-I-Mini
 - https://github.com/LambdaSchool/Redux
 - https://github.com/LambdaSchool/Redux-II
@@ -340,7 +340,7 @@ change
 
 # Week 08 Feb.26 - Mar. 2
 ## Front-End Project w/Josh Knell
-## Week 07 Assignments
+## Assignments
 - Front-End Project
 ### Day 34: Mon, Feb. 26
 #### [Code Challenge 28: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Matt Jackson
@@ -369,7 +369,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -403,7 +403,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -437,7 +437,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -471,7 +471,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -507,7 +507,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -541,7 +541,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -575,7 +575,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -609,7 +609,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -645,7 +645,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -679,7 +679,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -713,7 +713,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -747,7 +747,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -783,7 +783,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -817,7 +817,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -851,7 +851,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -885,7 +885,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -921,7 +921,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -955,7 +955,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -989,7 +989,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -1023,7 +1023,7 @@ change
 # Week ##: MON. ## - ##
 ## WEEKLY_SUBJECT w/INSTRUCTOR
 - Pre-Class video:
-## Week ## Assignments
+## Assignments
 - GitHub Repositories
 ### Day ##: Mon, MON. ##
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
