@@ -240,13 +240,13 @@ $ sudo npm install -g less
 #### [Q and A Part 2 - review of core concepts and relative path navigation](https://youtu.be/cJ9aKBC0NNg) w/Luis Hernandez
 ***
 ### Day 22: Wed, Feb. 7
-#### [Code Challenge 18: Days Between](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
+#### [Code Challenge 18: Days Between](https://youtu.be/5UY-9sEf-UY) w/Manisha Lal
 #### [Guided Demo Part 3 - Styling React Components](https://youtu.be/ZxP6WMnJx_U) w/Luis Hernandez
 #### [How to create a GitHub repository and connect it to an application built with create-react-app](https://youtu.be/-S6QuT-rJSU) w/Luis Hernandez
 #### [Q and A Part 3](https://youtu.be/UpCKoUL7Mk8) w/Luis Hernandez
 ***
 ### Day 23: Thu, Feb. 8
-#### [Code Challenge 19: Expanded Numbers](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
+#### [Code Challenge 19: Expanded Numbers](https://youtu.be/tAXkD5pZOE4) w/Tyge Johnson
 #### [Guided Demo Part 4 - PropTypes, defaultProps and Lifecyle hooks](https://youtu.be/SoCpqurJZHQ) w/Luis Hernandez
 #### [Q and A Part 4 - Review from Scratch](https://youtu.be/5HXrNoYRfyA) w/Luis Hernandez
 ***
@@ -341,10 +341,15 @@ change
 # Week 08 Feb.26 - Mar. 2
 ## Front-End Project w/Josh Knell
 ## Assignments
-- Front-End Project
+- http://ls-training-kit.netlify.com/cs-master/sprints/recvfiumbzbczllxc
+- https://github.com/LambdaSchool/front-end-project-week
+## Prep
+- [Intro to Agile and Trello](https://youtu.be/A6kyihY54yA)
+- Pomodoror technique: https://francescocirillo.com/pages/pomodoro-technique
+
 ### Day 34: Mon, Feb. 26
-#### [Code Challenge 28: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Matt Jackson
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+#### [Code Challenge 28: Quick Sort](https://youtu.be/ne0xjxqKkb4) w/Matt Jackson
+#### [Front End Project Week - Guided Instruction](https://youtu.be/KBhd7OJxft8) w/Josh Knell
 ***
 ### Day 35: Tue, Feb. 27
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
