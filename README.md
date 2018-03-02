@@ -352,10 +352,10 @@ change
 #### [Front End Project Week - Guided Instruction](https://youtu.be/KBhd7OJxft8) w/Josh Knell
 ***
 ### Day 35: Tue, Feb. 27
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+#### [Git Commits and Pep Talk](https://youtu.be/Ocw2rCdFyYA) w/Josh Knell
 ***
 ### Day 36: Wed, Feb. 28
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+#### [Pomodoro - Tomato... time tracking!](https://youtu.be/dRXZGpp8pfw) w/Josh Knell
 ***
 ### Day 37: Thu, Mar. 1
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
