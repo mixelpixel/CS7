@@ -358,10 +358,10 @@ change
 #### [Pomodoro - Tomato... time tracking!](https://youtu.be/dRXZGpp8pfw) w/Josh Knell
 ***
 ### Day 37: Thu, Mar. 1
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+#### [Weekly Scrum Agile](https://youtu.be/t3AKql4r06Q) w/Josh Knell
 ***
 ### Day 38: Fri, Mar. 2
-#### [Front-End Project Demo](VIDEO_RECORDED_NOT_POSTED) w/TAs
+#### [CS7 Front-End Project Demo](https://youtu.be/1EvA8UNZrys) w/TAs
 
 </p></details>
 
