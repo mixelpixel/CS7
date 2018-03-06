@@ -371,32 +371,38 @@ change
 
 <details><summary>Month 3: March, 2018</summary><p>
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
-- Pre-Class video:
+# Week 09: Mar. 5 - 9
+## Node w/Ivan Mora
+- Karthik Intro Video: [CS1 Node.js and Express](https://youtu.be/K1RkG_irE9I)
+- Install: https://www.getpostman.com/
 ## Assignments
-- GitHub Repositories
-### Day ##: Mon, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+- https://github.com/LambdaSchool/Node-Express
+- https://github.com/LambdaSchool/node-express-mini
+- https://github.com/LambdaSchool/node-express-mini-finished (solution)
+- https://github.com/LambdaSchool/Node-Express-Lab
+- https://github.com/LambdaSchool/node-express-lab-finished (solution)
+
+### Day 39: Mon, Mar. 5
+#### [Code Challenge 29: Merge Sort](https://youtu.be/X69jOWMwQRE) w/Dylan Scheidt
+#### [Node - Introduction Lecture](https://youtu.be/wABYcE37ylM) w/Ivan Mora
+#### [Node - Introduction Q&A](https://youtu.be/l5OkhMw0PQ0) w/TAs
 ***
-### Day ##: Tue, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 40: Tue, Mar. 6
+#### [Code Challenge 30: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/TAs
 ***
-### Day ##: Wed, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 41: Wed, Mar. 7
+#### [Code Challenge 31: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Matthew Jackson
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/TAs
 ***
-### Day ##: Thu, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 42: Thu, Mar. 8
+#### [Code Challenge 32: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/TAs
 ***
-### Day ##: Fri, MON. ##
+### Day 43: Fri, Mar. 9
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
