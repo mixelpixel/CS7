@@ -388,14 +388,14 @@ change
 #### [Node - Introduction Q&A](https://youtu.be/l5OkhMw0PQ0) w/TAs
 ***
 ### Day 40: Tue, Mar. 6
-#### [Code Challenge 30: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/TAs
+#### [Code Challenge 30: Breadth First Search](https://youtu.be/uUWO_uCJ2fU) w/Satish Vatikuti
+#### [Node - Express I - Mini Solution](https://youtu.be/BxjoDZwvJ3w) w/Ivan Mora
+#### [Node Express I Q&A (partial)](https://youtu.be/RPfcJDRGWfM) w/TAs
 ***
 ### Day 41: Wed, Mar. 7
-#### [Code Challenge 31: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Matthew Jackson
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/TAs
+#### [Code Challenge 31: Queue Stack](https://piazza.com/class/jc6vhnh8mdl5pw?cid=104) w/Matthew Jackson
+#### [Third Party APIs - Intro Lecture and assignment](https://youtu.be/22C-eD8k2r4) w/Ivan Mora
+#### [Third Party APIs - Intro Q&A](https://youtu.be/s__5AHQhfbI) w/TAs
 ***
 ### Day 42: Thu, Mar. 8
 #### [Code Challenge 32: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
