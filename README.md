@@ -398,8 +398,8 @@ change
 #### [Third Party APIs - Intro Q&A](https://youtu.be/s__5AHQhfbI) w/TAs
 ***
 ### Day 42: Thu, Mar. 8
-#### [Code Challenge 32: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
+#### [Code Challenge 32: Largest Contiguous Sum](https://youtu.be/ox2M5tFzxlQ) w/Tyge Johnson
+#### [Node-Express-Gmaps - Day I Lab Solution Lecture](https://youtu.be/GNSxs8yJuyo) w/Ivan Mora
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/TAs
 ***
 ### Day 43: Fri, Mar. 9
