@@ -374,7 +374,10 @@ change
 # Week 09: Mar. 5 - 9
 ## Node w/Ivan Mora
 - Karthik Intro Video: [CS1 Node.js and Express](https://youtu.be/K1RkG_irE9I)
-- Install: https://www.getpostman.com/
+
+### Installation
+- https://www.getpostman.com/
+
 ## Assignments
 - https://github.com/LambdaSchool/Node-Express
 - https://github.com/LambdaSchool/node-express-mini
@@ -403,43 +406,62 @@ change
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/TAs
 ***
 ### Day 43: Fri, Mar. 9
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Node-Express)
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
 
 
 ***
 
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
-- Pre-Class video:
+# Week 10: Mar. 12 - 16
+## MongoDB w/Luis Hernandez
+- Pre-Class video: https://youtu.be/mc26S-0FeSA
+### Installation
+1. MongoDB Installation Docs - follow the instructions to install the Community Edition for your platform
+  - https://docs.mongodb.com/manual/installation/
+  - https://www.mongodb.com/download-center?jmp=tutorials#community
+
+2. Robo 3T - Graphical User Interface tool for MongoDB
+  - https://robomongo.org/
+
+3. MongoDB Compass - Graphical User Interface tool created by the developers of MongoDB, install the Community Edition.
+  - https://www.mongodb.com/download-center?jmp=tutorials#compass
+
+4. MongooseJS - MongoDB Object Document Mapper for Node.js
+  - http://mongoosejs.com/
+
+4. MongooseJS documentation on Queries
+  - http://mongoosejs.com/docs/queries.html
+
+5. MongoDB documentation on Queries
+  - https://docs.mongodb.com/manual/tutorial/query-documents/
+
 ## Assignments
 - GitHub Repositories
-### Day ##: Mon, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 44: Mon, Mar. 12
+#### [Code Challenge ##: Reverse Linked List](https://youtu.be/EunGvk_IqH8) w/Matt Jackson
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
-### Day ##: Tue, MON. ##
+### Day 45: Tue, Mar. 13
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
-### Day ##: Wed, MON. ##
+### Day 46: Wed, Mar. 14
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
-### Day ##: Thu, MON. ##
+### Day 47: Thu, Mar. 15
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
-### Day ##: Fri, MON. ##
+### Day 48: Fri, Mar. 16
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 
 
 ***
