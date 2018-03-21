@@ -437,38 +437,41 @@ change
   - https://docs.mongodb.com/manual/tutorial/query-documents/
 
 ## Assignments
-- GitHub Repositories
+- https://github.com/LambdaSchool/mongo-I-mini
+- https://github.com/LambdaSchool/Mongo-I
+- https://github.com/LambdaSchool/Mongo-II
+- https://github.com/LambdaSchool/Mongo-III
+- https://github.com/LambdaSchool/mongo-iv
+- https://github.com/LambdaSchool/Sprint-Challenge-Mongo
+
 ### Day 44: Mon, Mar. 12
 #### [Code Challenge 33: Reverse Linked List](https://youtu.be/EunGvk_IqH8) w/Matt Jackson
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Guided Demo 1](https://youtu.be/Y4pjOf0nJDk) w/Luis Hernandez
+#### [Windows Install Troubleshooting](https://www.youtube.com/watch?v=l8Ij6hVQsBk&feature=youtu.be) w/Luis Hernandez
 ***
 ### Day 45: Tue, Mar. 13
-#### [Code Challenge 34: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Code Challenge 34: Binary Array Sort In Linear Time](https://youtu.be/smNx21DpQ5k) w/SPEAKER
+#### [Guided Demo 2](https://youtu.be/jiz-G89kAyA) w/Luis Hernandez
 ***
 ### Day 46: Wed, Mar. 14
-#### [Code Challenge 35: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Code Challenge 35: Linked List Cycle](https://youtu.be/n-HiU89hcpQ) w/SPEAKER
+#### [Guided Demo 3 - Relationships](https://youtu.be/8T8qZcfmNBE) w/Luis Hernandez
 ***
 ### Day 47: Thu, Mar. 15
-#### [Code Challenge 36: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Code Challenge 36: Balanced Brackets](https://youtu.be/nmWAY4KERS4) w/SPEAKER
+#### [Guided Demo 4 - Importing data, linking and queries](https://youtu.be/gBKOTB7m3SE) w/Luis Hernandez
+#### [Review and Q&A](https://youtu.be/sXbYe4bVxyQ) w/Luis Hernandez
 ***
 ### Day 48: Fri, Mar. 16
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
+#### [Sprint Challenge Review](https://youtu.be/jK-8Da0snX0) w/Luis Hernandez
 
 
 ***
 
 
 # Week 11: MON. 19 - 23
-## MongoDB w/Ryan Hamblin
+## Client Authentication w/Ryan Hamblin
 - Pre-Class video: https://youtu.be/lcTNZXJVwd4
 ## Assignments
 - https://github.com/LambdaSchool/Auth-Mini
