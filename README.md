@@ -439,22 +439,22 @@ change
 ## Assignments
 - GitHub Repositories
 ### Day 44: Mon, Mar. 12
-#### [Code Challenge ##: Reverse Linked List](https://youtu.be/EunGvk_IqH8) w/Matt Jackson
+#### [Code Challenge 33: Reverse Linked List](https://youtu.be/EunGvk_IqH8) w/Matt Jackson
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
 ### Day 45: Tue, Mar. 13
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge 34: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
 ### Day 46: Wed, Mar. 14
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge 35: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
 ### Day 47: Thu, Mar. 15
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge 36: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Luis Hernandez
 ***
@@ -467,32 +467,37 @@ change
 ***
 
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
-- Pre-Class video:
+# Week 11: MON. 19 - 23
+## MongoDB w/Ryan Hamblin
+- Pre-Class video: https://youtu.be/lcTNZXJVwd4
 ## Assignments
-- GitHub Repositories
-### Day ##: Mon, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+- https://github.com/LambdaSchool/Auth-Mini
+- https://github.com/LambdaSchool/Auth
+- [Client Authentication Prep Video](https://youtu.be/sqf1bh7kD3I)
+- https://github.com/LambdaSchool/Client-Auth-Mini
+- https://github.com/LambdaSchool/Client-Auth
+- https://github.com/LambdaSchool/Sprint-Challenge-Authentication
+
+### Day 49: Mon, Mar. 19
+#### [Code Challenge 37: Get All Product Except At Index](https://youtu.be/_8Uvw6Wia58) w/Patrick Kennedy
+#### [Authentication with BCrypt Middleware and Sessions](https://youtu.be/lLwGQTSzt_U) w/Ryan Hamblin
+#### [Auth-Mini Solution + QA](https://youtu.be/IRwhcd5UWAE) w/Ryan Hamblin
 ***
-### Day ##: Tue, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 50: Tue, Mar. 20
+#### [Code Challenge 38: Largest Difference](https://youtu.be/AtAuzJp9FAw) w/Matthew Jackson
+#### [Auth/pre hooks and methods and RegEx 'lite'](https://youtu.be/iClhXBmImJk) w/Ryan Hamblin
 ***
-### Day ##: Wed, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 51: Wed, Mar. 21
+#### [Code Challenge 39: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin
 ***
-### Day ##: Thu, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 52: Thu, Mar. 22
+#### [Code Challenge 40: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin
 ***
-### Day ##: Fri, MON. ##
+### Day 53: Fri, Mar. 23
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
