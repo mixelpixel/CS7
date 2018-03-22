@@ -491,9 +491,9 @@ change
 #### [Auth/pre hooks and methods and RegEx 'lite'](https://youtu.be/iClhXBmImJk) w/Ryan Hamblin
 ***
 ### Day 51: Wed, Mar. 21
-#### [Code Challenge 39: Armstrong Numbers](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin
+#### [Code Challenge 39: Armstrong Numbers](https://youtu.be/jjXB2xq0aTk) w/Tyge Johnson
+#### [Cors](https://youtu.be/FFTD_3mvtQw) w/Ryan Hamblin
+#### [Discusson And Demo on HOC](https://youtu.be/JDW9zU_cBeY) w/Ryan Hamblin
 ***
 ### Day 52: Thu, Mar. 22
 #### [Code Challenge 40: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
