@@ -463,7 +463,7 @@ change
 #### [Review and Q&A](https://youtu.be/sXbYe4bVxyQ) w/Luis Hernandez
 ***
 ### Day 48: Fri, Mar. 16
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Mongo) Mongo
 #### [Sprint Challenge Review](https://youtu.be/jK-8Da0snX0) w/Luis Hernandez
 
 
@@ -496,12 +496,12 @@ change
 #### [Discusson And Demo on HOC](https://youtu.be/JDW9zU_cBeY) w/Ryan Hamblin
 ***
 ### Day 52: Thu, Mar. 22
-#### [Code Challenge 40: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin
+#### [Code Challenge 40: Route Between Nodes](https://youtu.be/miLWjn4YKUc) w/Manisha Lal
+#### [Client Auth w/ Sessions SOLUTION](https://youtu.be/S4Hj_veQtvY) w/Ryan Hamblin
+#### [JSON Web Tokens](https://youtu.be/IyXq3PCDp0E) w/Ryan Hamblin
 ***
 ### Day 53: Fri, Mar. 23
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Authentication) Authentication
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
