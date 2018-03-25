@@ -470,7 +470,7 @@ change
 ***
 
 
-# Week 11: MON. 19 - 23
+# Week 11: Mar. 19 - 23
 ## Client Authentication w/Ryan Hamblin
 - Pre-Class video: https://youtu.be/lcTNZXJVwd4
 ## Assignments
@@ -502,42 +502,44 @@ change
 ***
 ### Day 53: Fri, Mar. 23
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Authentication) Authentication
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Auth - Sprint Challenge Solution](https://youtu.be/CQY323nLpB0) w/Ryan Hamblin
+#### [Brown Bag](https://youtu.be/lTx725g3pcU) w/Ryan Hamblin: Imposter Syndrome
 
 
 ***
 
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
-- Pre-Class video:
+# Week 12: Mar. 26 - 30
+## Testing w/Sean Chen
+- Pre-Class video: https://youtu.be/UdIvNJA2PwI
+http://chaijs.com/
+https://mochajs.org/
+https://devhints.io/sinon-chai
+https://github.com/LambdaSchool/Testing
+
 ## Assignments
 - GitHub Repositories
-### Day ##: Mon, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+
+### Day 54: Mon, Mar. 26
+#### [Code Challenge 41: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Matt Jackson
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
-### Day ##: Tue, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 55: Tue, Mar. 27
+#### [Code Challenge 42: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
-### Day ##: Wed, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 56: Wed, Mar. 28
+#### [Code Challenge 43: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
-### Day ##: Thu, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+### Day 57: Thu, Mar. 29
+#### [Code Challenge 44: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
-### Day ##: Fri, MON. ##
+### Day 58: Fri, Mar. 30
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 
 </p></details>
 
