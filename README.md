@@ -820,8 +820,8 @@ https://github.com/LambdaSchool/Testing
 ***
 
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
+# Week 22: Jun. 4 - 8
+## Security / Capstone Prep / Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -850,8 +850,8 @@ https://github.com/LambdaSchool/Testing
 ***
 
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
+# Week 23: Jun. 11 - 15
+## Capstone (Progress Demo 1) / Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -880,8 +880,8 @@ https://github.com/LambdaSchool/Testing
 ***
 
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
+# Week 24: Jun. 18 - 22
+## Capstone (Progress Demo 2) / Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -912,8 +912,8 @@ https://github.com/LambdaSchool/Testing
 
 <details><summary>Month 7: July, 2018</summary><p>
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
+# Week 25: MON. 25 - 29
+## Capstone (Brown Bag) / Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -942,8 +942,8 @@ https://github.com/LambdaSchool/Testing
 ***
 
 
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
+# Week 26: Jul. 2 - 6
+## Capstone(Final / Public Demo) / Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
