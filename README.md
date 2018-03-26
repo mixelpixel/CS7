@@ -290,7 +290,7 @@ $ sudo npm install -g less
 #### [Q&A - React Router](https://youtu.be/k2nOAYnT2rI) w/Luis Hernandez
 ***
 ### Day 29: Fri, Feb. 16
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Routing-Axios.git) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Routing-Axios.git): Routing Axios
 #### [Brown Bag](https://youtu.be/MeQZby2OMTM) w/Sean Chen: Parallel Algorithm Design
 #### [Sprint Challenge Review](https://youtu.be/XweeO6kmB7c) w/Luis Hernandez: React Router and AJAX Update/Put
 
@@ -332,7 +332,7 @@ change
 ### Day 33: Fri, Feb. 23
 #### [Code Challenge 27: Markdown Tables](https://youtu.be/NiXv54vJW4s) w/Patrick Kennedy
 #### [Redux II Solution Lecture](https://youtu.be/TD02_nz_-hg) w/Sean Chen
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge--Redux)
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge--Redux): Redux
 
 
 ***
@@ -406,7 +406,7 @@ change
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/TAs
 ***
 ### Day 43: Fri, Mar. 9
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Node-Express)
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Node-Express): Node
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
 
 
@@ -463,7 +463,7 @@ change
 #### [Review and Q&A](https://youtu.be/sXbYe4bVxyQ) w/Luis Hernandez
 ***
 ### Day 48: Fri, Mar. 16
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Mongo) Mongo
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Mongo): Mongo
 #### [Sprint Challenge Review](https://youtu.be/jK-8Da0snX0) w/Luis Hernandez
 
 
@@ -501,7 +501,7 @@ change
 #### [JSON Web Tokens](https://youtu.be/IyXq3PCDp0E) w/Ryan Hamblin
 ***
 ### Day 53: Fri, Mar. 23
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Authentication) Authentication
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge-Authentication): Authentication
 #### [Auth - Sprint Challenge Solution](https://youtu.be/CQY323nLpB0) w/Ryan Hamblin
 #### [Brown Bag](https://youtu.be/lTx725g3pcU) w/Ryan Hamblin: Imposter Syndrome
 
@@ -518,7 +518,12 @@ https://devhints.io/sinon-chai
 https://github.com/LambdaSchool/Testing
 
 ## Assignments
-- GitHub Repositories
+- https://tk.lambdaschool.com/cs-master/sprints/recxv0jwyeyd6y2jq
+- https://github.com/LambdaSchool/Client-Testing-Mini
+- https://github.com/LambdaSchool/Testing
+- https://github.com/LambdaSchool/Server-Testing-Mini
+- https://github.com/LambdaSchool/Server-Testing
+- https://github.com/LambdaSchool/Sprint-Challenge--Testing
 
 ### Day 54: Mon, Mar. 26
 #### [Code Challenge 41: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Matt Jackson
@@ -537,7 +542,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
 ### Day 58: Fri, Mar. 30
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): Testing
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 
@@ -569,7 +574,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 63: Fri, Apr. 06
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -599,7 +604,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 68: Fri, MON. 13
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -629,7 +634,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -659,7 +664,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -691,7 +696,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -721,7 +726,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -751,7 +756,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -781,7 +786,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -812,7 +817,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -842,7 +847,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -872,7 +877,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -902,7 +907,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -934,7 +939,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -964,7 +969,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -994,7 +999,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
@@ -1024,7 +1029,7 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
