@@ -519,15 +519,15 @@ https://github.com/LambdaSchool/Testing
 
 ## Assignments
 - https://tk.lambdaschool.com/cs-master/sprints/recxv0jwyeyd6y2jq
-- https://github.com/LambdaSchool/Client-Testing-Mini
 - https://github.com/LambdaSchool/Testing
+- https://github.com/LambdaSchool/React-Testing
 - https://github.com/LambdaSchool/Server-Testing-Mini
 - https://github.com/LambdaSchool/Server-Testing
 - https://github.com/LambdaSchool/Sprint-Challenge--Testing
 
 ### Day 54: Mon, Mar. 26
-#### [Code Challenge 41: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Matt Jackson
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Code Challenge 41: Sum And Product](https://youtu.be/UIP9yyRVt0Y) w/Matt Jackson
+#### [Client-Side Testing Lecture](https://youtu.be/2yZFyrU1wuI) w/Sean Chen
 ***
 ### Day 55: Tue, Mar. 27
 #### [Code Challenge 42: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
