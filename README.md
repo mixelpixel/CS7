@@ -531,11 +531,11 @@ https://github.com/LambdaSchool/Testing
 #### [Client-Side Testing Q&A](https://youtu.be/zditPPnmYiY) w/Sean Chen
 ***
 ### Day 55: Tue, Mar. 27
-#### [Code Challenge 42: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
+#### [Code Challenge 42: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
 ### Day 56: Wed, Mar. 28
-#### [Code Challenge 43: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
+#### [Code Challenge 43: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
 ### Day 57: Thu, Mar. 29
