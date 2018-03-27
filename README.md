@@ -531,8 +531,8 @@ https://github.com/LambdaSchool/Testing
 #### [Client-Side Testing Q&A](https://youtu.be/zditPPnmYiY) w/Sean Chen
 ***
 ### Day 55: Tue, Mar. 27
-#### [Code Challenge 42: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Code Challenge 42: Chained Functions](https://youtu.be/XfQLrJ45BiI) w/Tyge Johnson
+#### [React Testing Lecture](https://youtu.be/e7y7qkw4GOs) w/Sean Chen
 ***
 ### Day 56: Wed, Mar. 28
 #### [Code Challenge 43: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
