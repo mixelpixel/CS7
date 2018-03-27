@@ -528,6 +528,7 @@ https://github.com/LambdaSchool/Testing
 ### Day 54: Mon, Mar. 26
 #### [Code Challenge 41: Sum And Product](https://youtu.be/UIP9yyRVt0Y) w/Matt Jackson
 #### [Client-Side Testing Lecture](https://youtu.be/2yZFyrU1wuI) w/Sean Chen
+#### [Client-Side Testing Q&A](https://youtu.be/zditPPnmYiY) w/Sean Chen
 ***
 ### Day 55: Tue, Mar. 27
 #### [Code Challenge 42: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
