@@ -535,7 +535,7 @@ https://github.com/LambdaSchool/Testing
 #### [React Testing Lecture](https://youtu.be/e7y7qkw4GOs) w/Sean Chen
 ***
 ### Day 56: Wed, Mar. 28
-#### [Code Challenge 43: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
+#### [Code Challenge 43: Stack Machine](VIDEO_RECORDED_NOT_POSTED) w/Satish Vatikuti
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
 ### Day 57: Thu, Mar. 29
