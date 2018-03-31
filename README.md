@@ -557,37 +557,33 @@ https://github.com/LambdaSchool/Testing
 <details><summary>Month 4: April, 2018</summary><p>
 
 # Week 13: Apr. 2 - 6
-## Project Week - Backend w/INSTRUCTOR
-- Pre-Class video:
+## Project Week - Back End Project w/Sean Chen
+- https://tk.lambdaschool.com/cs-master/sprints/recwkcwui91eg1s8q
+- https://tk.lambdaschool.com/cs-master/modules/reclxlvbkj28kntn8
 ## Assignments
-- GitHub Repositories
+- https://github.com/LambdaSchool/back-end-project-week
 ### Day 59: Mon, Apr. 02
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
 ### Day 60: Tue, Apr. 03
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Brown Bag](LINK) w/SPEAKER: TOPIC <---- Leon Refactor .then async/await
 ***
 ### Day 61: Wed, Apr. 04
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
 ### Day 62: Thu, Apr. 05
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 ***
 ### Day 63: Fri, Apr. 06
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [CS7 Back End Project Demo](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
 
 
 ***
 
 
 # Week 14: Apr. 9 - 13
-## Python/Django I w/INSTRUCTOR
+## Computer Architecture w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -609,7 +605,7 @@ https://github.com/LambdaSchool/Testing
 ***
 ### Day 68: Fri, MON. 13
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
+#### [Brown Bag](LINK) w/SPEAKER: TOPIC <---- Eileen Introduction to C Pointers
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
 
@@ -617,7 +613,7 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 15: Apr. 16 - 20
-## Python/Django II w/INSTRUCTOR
+## Intro to C and Operating Systems w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -647,7 +643,7 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 16: Apr. 23 - 27
-## Python/Django III w/INSTRUCTOR
+## Processes, System Calls, and Scheduling w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -679,7 +675,7 @@ https://github.com/LambdaSchool/Testing
 <details><summary>Month 5: May, 2018</summary><p>
 
 # Week 17: Apr. 30 - May 4
-## Computer Architecture w/INSTRUCTOR
+## Theory of Computation/Algorithms w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -709,7 +705,7 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 18: May. 7 - 11
-## Intro to C and Operating Systems w/INSTRUCTOR
+## Graphs w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -739,7 +735,7 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 19: May. 14 - 18
-## Processes, System Calls, and Scheduling w/INSTRUCTOR
+## Security/Cellular Automata/Capstone Prep w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -769,7 +765,7 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 20: May. 21 - 25
-## Data Structures and Algorithms w/INSTRUCTOR
+## Python/Django I w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -801,7 +797,7 @@ https://github.com/LambdaSchool/Testing
 <details><summary>Month 6: June, 2018</summary><p>
 
 # Week 21: May. 29 - Jun. 1
-## Graphs, Graphics, Theory of Computation / Career Development w/INSTRUCTOR
+## Python/Django II/Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -830,7 +826,7 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 22: Jun. 4 - 8
-## Security / Capstone Prep / Career Development w/INSTRUCTOR
+## Python/Django III/Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -860,7 +856,7 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 23: Jun. 11 - 15
-## Capstone (Progress Demo 1) / Career Development w/INSTRUCTOR
+## Capstone (Progress Demo 1)/Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -890,7 +886,7 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 24: Jun. 18 - 22
-## Capstone (Progress Demo 2) / Career Development w/INSTRUCTOR
+## Capstone (Progress Demo 2)/Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -922,7 +918,7 @@ https://github.com/LambdaSchool/Testing
 <details><summary>Month 7: July, 2018</summary><p>
 
 # Week 25: MON. 25 - 29
-## Capstone (Brown Bag) / Career Development w/INSTRUCTOR
+## Capstone (Brown Bag)/Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
@@ -952,7 +948,7 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 26: Jul. 2 - 6
-## Capstone(Final / Public Demo) / Career Development w/INSTRUCTOR
+## Capstone(Final/Public Demo)/Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
 - GitHub Repositories
