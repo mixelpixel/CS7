@@ -541,13 +541,14 @@ https://github.com/LambdaSchool/Testing
 - Server testing mini code: https://gist.github.com/seanchen1991/f2431535c3a42af3919e5b21ee4fa11c
 ***
 ### Day 57: Thu, Mar. 29
-#### [Code Challenge 44: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Manisha Lal
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Code Challenge 44: Prime Reduction](https://youtu.be/0pkZuE2YNCc) w/Manisha Lal
+#### [Server-Testing Solution Lecture](https://youtu.be/0pkZuE2YNCc) w/Sean Chen
+- Link to solution repository: https://github.com/ryanhca/testing-a-server
 ***
 ### Day 58: Fri, Mar. 30
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): Testing
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/Sprint-Challenge--Testing): Testing
+#### [Brown Bag](https://youtu.be/pCUFx_v9f8g) w/Leon Bates: Refactoring .then, async, & await
+#### [Sprint Challenge -- Testing Solution Lecture](https://youtu.be/JoIuYivEzhU) w/Sean Chen
 
 </p></details>
 
