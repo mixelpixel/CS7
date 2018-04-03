@@ -563,14 +563,15 @@ https://github.com/LambdaSchool/Testing
 ## Assignments
 - https://github.com/LambdaSchool/back-end-project-week
 ### Day 59: Mon, Apr. 02
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Backend Project Week Kickoff](https://youtu.be/vAkybgGB7Vk) w/Sean Chen
 ***
 ### Day 60: Tue, Apr. 03
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC <---- Leon Refactor .then async/await
+#### [Backend Week instructor Session 1: How to Think about Code Challenges](https://youtu.be/Yp1YT00NWP4) w/Sean Chen
+#### [Basic MongoDB Schema and Express Server](https://youtu.be/Oj-uU6A9U1M) w/Patrick Kennedy
 ***
 ### Day 61: Wed, Apr. 04
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Brown Bag](LINK) w/SPEAKER: TOPIC <---- Leon Refactor .then async/await
 ***
 ### Day 62: Thu, Apr. 05
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
