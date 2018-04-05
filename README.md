@@ -570,8 +570,8 @@ https://github.com/LambdaSchool/Testing
 #### [Basic MongoDB Schema and Express Server](https://youtu.be/Oj-uU6A9U1M) w/Patrick Kennedy
 ***
 ### Day 61: Wed, Apr. 04
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC <---- Leon Refactor .then async/await
+#### [Backend Project Week Instructor Session 2](https://youtu.be/k7ccA6ZGbVQ) w/Sean Chen
+#### [Brown Bag](https://youtu.be/YEHgj5fDxm8) w/Leon Bates: Refactoring .then, async, & await
 ***
 ### Day 62: Thu, Apr. 05
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
