@@ -574,7 +574,7 @@ https://github.com/LambdaSchool/Testing
 #### [Brown Bag](https://youtu.be/YEHgj5fDxm8) w/Leon Bates: Refactoring .then, async, & await
 ***
 ### Day 62: Thu, Apr. 05
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [Backend Project Week Instructor Session 3](https://youtu.be/TTKSesIBR1s) w/Sean Chen
 ***
 ### Day 63: Fri, Apr. 06
 #### [CS7 Back End Project Demo](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
