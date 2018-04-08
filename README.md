@@ -585,30 +585,36 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 14: Apr. 9 - 13
-## Computer Architecture w/INSTRUCTOR
-- Pre-Class video:
+## Computer Architecture w/Beej Jorgensen
+- Beej's introduction: https://lambdaschoolstudents.slack.com/archives/G8QF444TG/p1523057832000187
+- Precourse viddy: https://www.youtube.com/watch?v=osLzed5ExFs&feature=youtu.be
+- Precourse viddy: https://www.youtube.com/watch?v=NwimiPFMzp4&feature=youtu.be
+- Overview: https://tk.lambdaschool.com/cs-master/sprints/recndtno1v8odbbpb
+- Mon/Tue: https://tk.lambdaschool.com/cs-master/modules/recsujbrrfgbfucrx
+- Wed/Thu: https://tk.lambdaschool.com/cs-master/modules/recvqukzz23ntj20g
 ## Assignments
-- GitHub Repositories
+- https://github.com/LambdaSchool/Computer-Architecture-One
+- https://github.com/LambdaSchool/Sprint-Challenge--Computer-Architecture
 ### Day 64: Mon, MON. 9
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Beej Jorgensen
 ***
 ### Day 65: Tue, MON. 10
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Beej Jorgensen
 ***
 ### Day 66: Wed, MON. 11
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Matt Jackson
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Beej Jorgensen
 ***
 ### Day 67: Thu, MON. 12
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/TBD
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Beej Jorgensen
 ***
 ### Day 68: Fri, MON. 13
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC <---- Eileen Introduction to C Pointers
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Beej Jorgensen
 
 
 ***
@@ -950,6 +956,27 @@ https://github.com/LambdaSchool/Testing
 
 
 # Week 26: Jul. 2 - 6
+## HACKATHON #2
+## Assignments
+- GitHub Repositories
+### Day ##: Mon, MON. ##
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Tue, MON. ##
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Wed, MON. ##
+#### [Hackathon 2: Presentations](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Thu, MON. ## - BREAK
+***
+### Day ##: Fri, MON. ## - BREAK
+
+
+***
+
+
+# Week 27: Jul. 9 - 13
 ## Capstone(Final/Public Demo)/Career Development w/INSTRUCTOR
 - Pre-Class video:
 ## Assignments
@@ -971,69 +998,8 @@ https://github.com/LambdaSchool/Testing
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-
-
-***
-
-
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
-- Pre-Class video:
-## Assignments
-- GitHub Repositories
-### Day ##: Mon, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Tue, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Wed, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Thu, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-
-
-***
-
-
-# Week ##: MON. ## - ##
-## WEEKLY_SUBJECT w/INSTRUCTOR
-- Pre-Class video:
-## Assignments
-- GitHub Repositories
-### Day ##: Mon, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Tue, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Wed, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Thu, MON. ##
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-***
-### Day ##: Fri, MON. ##
-#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE): NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Final Hoorah!](LINK) w/SPEAKER: TOPIC
+#### [Publc Demo](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
 </p></details>
 
