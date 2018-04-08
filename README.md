@@ -577,7 +577,7 @@ https://github.com/LambdaSchool/Testing
 #### [Backend Project Week Instructor Session 3](https://youtu.be/TTKSesIBR1s) w/Sean Chen
 ***
 ### Day 63: Fri, Apr. 06
-#### [CS7 Back End Project Demo](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen
+#### [CS7 Back End Project Demo](https://youtu.be/cQ0p7FEXp-s) w/Sean Chen
 
 
 ***
