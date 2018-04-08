@@ -420,6 +420,7 @@ change
 1. MongoDB Installation Docs - follow the instructions to install the Community Edition for your platform
   - https://docs.mongodb.com/manual/installation/
   - https://www.mongodb.com/download-center?jmp=tutorials#community
+  - NOTE: Windows users - do not select "Compass" as a part of th installer per: https://www.youtube.com/watch?v=l8Ij6hVQsBk&feature=youtu.be
 
 2. Robo 3T - Graphical User Interface tool for MongoDB
   - https://robomongo.org/
