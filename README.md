@@ -597,7 +597,7 @@ https://github.com/LambdaSchool/Testing
 - https://github.com/LambdaSchool/Sprint-Challenge--Computer-Architecture
 ### Day 64: Mon, MON. 9
 #### [Code Challenge ##: Deep Equality](https://youtu.be/Vuri3CVyf48) w/Patrick Kennedy
-#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Beej Jorgensen
+#### [Computer Architecture #1](https://youtu.be/vmry2rXp60c) w/Beej Jorgensen
 ***
 ### Day 65: Tue, MON. 10
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson
